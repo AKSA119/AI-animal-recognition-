@@ -1,0 +1,8 @@
+User,Timestamp,Animal,Confidence
+fatima,2025-11-13 00:53:20,mammal,62.4592132568359
+fatima,2025-11-13 00:53:50,tiger,100
+fatima,2025-11-13 00:54:46,red fox,100
+fatima,2025-11-13 08:53:17,mammal,62.4592132568359
+fatima,2025-11-20 22:45:36,attendant,37.6445617675781
+fatima,2025-11-20 22:46:55,passenger,61.1196823120117
+fatima,2025-11-20 22:47:45,tiger,100
